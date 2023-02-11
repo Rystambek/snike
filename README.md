@@ -1,6 +1,6 @@
 # snike
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="main.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
